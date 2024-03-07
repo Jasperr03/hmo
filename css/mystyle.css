@@ -1,0 +1,29 @@
+/***** header *****/ 
+.header {
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #003380;
+}
+
+.header-logo {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.header a {
+    text-wrap:wrap;
+    color: #f2f2f2;
+    text-decoration-line: none;
+}
+
+.header p{
+    display: inline-flex;
+    margin-bottom: auto; 
+    padding-bottom:10px;
+    text-align: center;
+    padding-top: 2px;
+    align-items: center;
+    color: #f2f2f2;
+    padding-left: 2px;
+}
