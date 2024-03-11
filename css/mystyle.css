@@ -38,9 +38,10 @@
     margin-top: 10px;
 }
 
+
 .navlink a {
     padding-right: 7px;
-    
+    text-decoration-line: none;
 }
 
 .dropbtn {

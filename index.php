@@ -10,13 +10,19 @@
     rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <style>
-    .navlink a{
-        text-decoration-line: none;
-    }
+    
 </style>
 <body>
     <!--navhead-->
     <?php include 'components/navhead.php' ?>
+    <!--sidenav-->
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="about.php">Modal 1</a>
+        <a href="#">Modal 2</a>
+        <a href="#">Modal 3</a>
+        <a href="#">Modal 4</a>
+    </div>
     <!--footer-->
     <?php include 'components/footer.php' ?>
 </body>
