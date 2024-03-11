@@ -1,4 +1,4 @@
-<div class="header">
+<div class="header" id="myHeader">
     <a href="#">
         <img class="header-logo" src="assets/img/nbsclogo.png" style="height:0.3in;" alt="nbsclogo.png">
     </a>

@@ -1,13 +1,11 @@
 /***** side nav button *****/ 
 .sidenav-btn {
-    background-color: #e6e4e4;
     cursor: pointer;
     float: left;
     margin-left: 0;
     width: auto;
     height: auto;
-    margin-top: 350px;
-    position: fixed;
+    padding-right: 10px;
    }
 
   .sidenav-icon {

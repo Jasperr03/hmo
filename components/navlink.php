@@ -1,4 +1,6 @@
 <div class="navlink">
+    <!--Sid nav toggle -->
+    <?php include 'components/sidenavToggle.php' ?>
     <a href="index.php">Home</a>
     <a href="about.php">About</a>
     <div class="dropdown">
