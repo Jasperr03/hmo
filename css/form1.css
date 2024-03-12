@@ -1,4 +1,24 @@
+/***** header *****/  
 .studHP-header  {
-    background-color: #cac8c8;
-   font-family:Arial, Helvetica, sans-serif;
+    font-family:Georgia,'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 0.1px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #B0B4B5;
+    border-radius:10px;
+}
+
+.studHP-header p {
+    padding-top: 2px;
+    padding-bottom: 0px;
+    font-size: small;
+}
+
+.studHP-header h5 {
+    padding-top: 0;
+    padding-bottom: 0px;
+    font-size: medium;
+    font-weight: bold;
 }
