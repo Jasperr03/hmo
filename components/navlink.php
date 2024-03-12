@@ -1,8 +1,6 @@
 <div class="navlink">
     <!--Sid nav toggle -->
     <?php include 'components/sidenavToggle.php' ?>
-    <a href="index.php">Home</a>
-    <a href="about.php">About</a>
     <div class="dropdown">
         <a href="#" class="dropbtn">
             <svg class="dropicon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#f2f2f2" class="bi bi-caret-down-fill" viewBox="0 0 16 16">
